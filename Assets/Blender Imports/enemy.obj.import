@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/enemy.obj-6d20ab19bc2668bc1fd522bc7f18bcb9.mesh"
+
+[deps]
+
+files=[ "res://.import/enemy.obj-6d20ab19bc2668bc1fd522bc7f18bcb9.mesh" ]
+
+source_file="res://Assets/Blender Imports/enemy.obj"
+dest_files=[ "res://.import/enemy.obj-6d20ab19bc2668bc1fd522bc7f18bcb9.mesh", "res://.import/enemy.obj-6d20ab19bc2668bc1fd522bc7f18bcb9.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
